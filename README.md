@@ -14,7 +14,7 @@ In this project the google maps and cloudinary apis are used
 
 ### BUILD AND RUN
 
-Para iniciar el todo el proyecto
+To start the entire project
 
 First Tab:
 ```sh
